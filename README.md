@@ -3,7 +3,7 @@
 ## Updated Links
 
 The published workers can be found at:
-`https://2020_sde.goutham-gopal94.workers.dev/` and `https://2020_sde.goutham-gopal94.workers.dev/links`
+- https://2020_sde.goutham-gopal94.workers.dev/ and https://2020_sde.goutham-gopal94.workers.dev/links
 
 ## What is it?
 
