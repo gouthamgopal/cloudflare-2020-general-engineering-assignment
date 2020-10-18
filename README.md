@@ -1,5 +1,10 @@
 # General Assignment
 
+## Updated Links
+
+The published workers can be found at:
+`https://2020_sde.goutham-gopal94.workers.dev/` and `https://2020_sde.goutham-gopal94.workers.dev/links`
+
 ## What is it?
 
 In this exercise, you'll deploy a Cloudflare Workers project in order to build a linktree-style website. Below is a list of requirements and success criteria for your finished project.

@@ -1,0 +1,6 @@
+name = "2020_sde"
+type = "javascript"
+account_id = "0a17ce82d0e77f2050538d3e76884fcd"
+workers_dev = true
+route = ""
+zone_id = ""
